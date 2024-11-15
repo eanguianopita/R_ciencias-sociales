@@ -7,7 +7,7 @@ El curso está abierto para cualquier persona incluyendo aquellas que no tengan 
 Este curso está basado principalmente en el libro [Introduction to R for Social Scientists: A Tidy Programming Approach](https://www.routledge.com/Introduction-to-R-for-Social-Scientists-A-Tidy-Programming-Approach/Kennedy-Waggoner/p/book/9780367460723?srsltid=AfmBOoo5U6RYYFnt7oxdShAX4XRInSWomgK248xNlB2FLv1s-a0RO_WO) escrito por Ryan Kennedy y Philip D. Waggoner.     
 
 # Antes de iniciar el curso
-[X] 💻 Descarguen R y R Studio. (Ambos programas se instalarán en clase). 
+💻 Descarguen R y R Studio. (Ambos programas se instalarán en clase). 
 
 # Políticas de la clase
 - Respeten a sus compañeros y al instructor. Todos estamos aquí para aprender algo nuevo.
